@@ -4,19 +4,19 @@ This is a fitness tracker that let's you create and save workouts. It uses a Mon
 
 Add to a previous workout or create a new one.  
 
-![Homepage Screenshot](/Develop/images/start_screen.png)  
+![Homepage Screenshot](/images/start_screen.png)  
 
 Enter your exercise.  
 
-![Add Screenshot](/Develop/images/add_screen.png)  
+![Add Screenshot](/images/add_screen.png)  
 
 See your stats.  
 
-![Stats Screenshot](/Develop/images/stats_screen.png)  
+![Stats Screenshot](/images/stats_screen.png)  
 
 
 Deployed link:  
-
+https://nosql-fitness-tracker.herokuapp.com/  
 
 Built with:  
 Node.js  
